@@ -17,6 +17,4 @@ https://github.com/Dapp-Learning-DAO/Dapp-Learning/tree/main/basic/42-merkle-dis
 线下生成 Merkle 证明, 线上 Merkle 验证
 
 ### ERC20 merkle airdrop
-参考 1inch，dydx，uniswap 都实现 merkle 空投。 具体原理请参考：
-
-https://itzone.com.vn/en/article/merkle-airdrop-the-airdrop-solution-for-token-issues/
+参考 1inch，dydx，uniswap 都实现 merkle 空投。 

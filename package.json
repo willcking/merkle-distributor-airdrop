@@ -1,8 +1,14 @@
 {
   "dependencies": {
-    "hardhat": "^2.22.9"
+    "@openzeppelin/contracts": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.9",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.4.0",
+    "web3": "^4.12.1"
   },
   "devDependencies": {
-    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat-gas-reporter": "^2.2.1"
   }
 }
